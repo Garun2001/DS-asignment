@@ -1,4 +1,3 @@
-//Shubham Gupta IT 11912061
 #include<stdio.h>
 #include<stdlib.h>
 
